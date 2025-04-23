@@ -2,7 +2,7 @@
 This is a project for the roadmap.sh. 
 
 ## Demo Video
-PLACE HODLER
+[Number Guessing Video](https://github.com/user-attachments/assets/9f998c0b-e0c7-44dc-af4a-d3cf8fcec663)
 
 ## Features
 - Numbers from 1-100
