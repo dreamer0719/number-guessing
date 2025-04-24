@@ -6,7 +6,7 @@ This is a project for the roadmap.sh (https://roadmap.sh/projects/number-guessin
 - Try until you got it right!
 
 ## Demo Video
-https://github.com/dreamer0719/number-guessing/issues/1#issue-3015478332
+[Number Guessing Video](https://github.com/user-attachments/assets/9f998c0b-e0c7-44dc-af4a-d3cf8fcec663)
 
 ## Features
 - Numbers from 1-100
