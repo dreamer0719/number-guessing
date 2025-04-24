@@ -1,8 +1,9 @@
 # Number Guessing Game
-This is a project for the roadmap.sh. 
+This is a project for the roadmap.sh (https://roadmap.sh/projects/number-guessing-game)
 
-## Demo Video
-PLACE HODLER
+## Instruction:
+- Select a level from (1,2,3)
+- Enter your tries until you got it right!
 
 ## Features
 - Numbers from 1-100
