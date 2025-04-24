@@ -1,5 +1,5 @@
 # Number Guessing Game
-This is a project for the roadmap.sh (https://roadmap.sh/projects/number-guessing-game)
+This is a project for the roadmap.sh (https://roadmap.sh/projects/number-guessing-game, my solution: https://roadmap.sh/projects/number-guessing-game/solutions?u=6809944385af3470eb7f0dfd)
 
 ## Instructions:
 - Select a level (1,2,3)
